@@ -1,9 +1,11 @@
 [package]
-name = "Rust_Demo"
+name = "ff"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+crossterm = "0.28.1"
 regex = "1.11.1"
+term_size = "0.3.2"
 termcolor = "1.4.1"
 walkdir = "2.3.2"

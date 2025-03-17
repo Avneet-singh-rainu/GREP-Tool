@@ -7,6 +7,6 @@ fn main(){
     // let grep = MyGrep{};
     // grep.run();
     let firefiles = firefile{};
-    firefiles.findfiles();
+    firefiles.find_files();
 
 }
